@@ -1,4 +1,4 @@
-Project 1, Aiden Kirk, Sammy Khalaf
+Project 1, Aiden Kirk
 
            Prog01_aOrderedList    
 ----------------------------------
